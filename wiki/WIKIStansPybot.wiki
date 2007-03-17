@@ -9,12 +9,11 @@ piorty right now is makeing the client function stable and to work on imporveing
 
 
   * Bot well have AI most likely useing AIML
-  * well beable to maintain an Channel with no effort from user side [automated]
+  * well beable to maintain an Channel with no effort from user side (automated)
   * Bot well Talk to people in the channel : why i plane on useing AIML
 
 Current features
   * able to list users in channel
   * able to join IRC server
   * basic stuff for IRC [no commands]
-
 
