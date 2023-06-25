@@ -17,7 +17,7 @@ sys.stderr = open(os.devnull, 'w')
 #                       by
 #                     Stan44
 #           Version: 0.0.3 Alpha Stable
-#                 copyright:2023
+#                 
 #----------------------------------------------------
 load_dotenv()
 
