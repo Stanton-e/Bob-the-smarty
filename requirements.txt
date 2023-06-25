@@ -1,0 +1,5 @@
+python-dotenv
+torch
+tensorflow
+transformers
+xformers
